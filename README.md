@@ -1,5 +1,4 @@
-![Header](./header-banner.png)
-# Hi 👋, I'm Yasu
+# Hi 👋, I'm Quity
 
 ### A passionate C developer
 
